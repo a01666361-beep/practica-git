@@ -1,3 +1,7 @@
 # Mi primera práctica con Git
 
-Autor: Nombre del estudiante
+Autor: Arlen Martínez
+
+Realizamos cambios para registrar el repositorio
+
+Aprendizaje con GIT
